@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://reading-lab-jp.vercel.app/sitemap.xml
+Sitemap: https://okuwabara07-gif.github.io/reading-lab-jp/sitemap.xml
